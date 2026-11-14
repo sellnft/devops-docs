@@ -10,3 +10,4 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://sellnft.github.io/devops-docs/`.
+[Тест](missing-page.md)
